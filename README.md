@@ -19,10 +19,10 @@ QuestPro-AI is an advanced AI-powered platform that enables users to upload PDFs
 - **Database:** FAISS (for efficient similarity search)
 
 ## 📸 Screenshots
-![Screenshot](images/op1.jpg)
-![Screenshot](images/op2.jpg)
-![Screenshot](images/op3.jpg)
-![Screenshot](images/op4.jpg)
+![Screenshot](images/op1.png)
+![Screenshot](images/op2.png)
+![Screenshot](images/op3.png)
+![Screenshot](images/op4.png)
 
 
 ## 📂 Installation
